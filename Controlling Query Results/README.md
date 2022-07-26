@@ -1,8 +1,8 @@
-1.specifying the result format \n
-2.source filtering
-3.specifying the re
-4.specifying an off
-5.pagination
-6.sorting resu
-7.sorting by multi-value fields
+1.specifying the result format <br />
+2.source filtering <br />
+3.specifying the re <br />
+4.specifying an off <br />
+5.pagination <br />
+6.sorting resu <br />
+7.sorting by multi-value fields <br />
 8.filters

@@ -1,4 +1,4 @@
-1.specifying
+1.specifying the result format \n
 2.source filtering
 3.specifying the re
 4.specifying an off
